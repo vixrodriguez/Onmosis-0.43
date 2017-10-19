@@ -26,7 +26,7 @@ $ osmosis --read-xml <fileinput>.osm --mapfile-writer <fileoutput>.map
 
 Please, visit the original source code: https://github.com/mapsforge/mapsforge
 
-This small tutorial is based in the steps for [Convert from OpenStreetMap to Mapsforge using Osmosis](http://developer.servalproject.org/dokuwiki/doku.php?id=content:servalmaps:osmosis)
+This small tutorial is based in the steps for [Install Elasticsearch plugin in Osmosis](https://github.com/ncolomer/elasticsearch-osmosis-plugin/wiki/Quick-start) and [Convert from OpenStreetMap to Mapsforge using Osmosis](http://developer.servalproject.org/dokuwiki/doku.php?id=content:servalmaps:osmosis)
 
 Others sites that was help:
 * https://oss.sonatype.org/content/repositories/snapshots/org/mapsforge/mapsforge-map-writer/
