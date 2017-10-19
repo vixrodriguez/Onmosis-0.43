@@ -15,6 +15,12 @@ Steps for installation:
    1. $ export OSMOSIS_HOME=/opt/osmosis-0.43
    2. $ export PATH=$PATH:$OSMOSIS_HOME/bin
 
+## Example for Convert OSM file to MAP
+
+```
+$ osmosis --read-xml <fileinput>.osm --mapfile-writer <fileoutput>.map
+```
+
 
 Please, visit the original source code: https://github.com/mapsforge/mapsforge
 
