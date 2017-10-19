@@ -3,7 +3,8 @@ Correct Osmosis configuration for converting OSM files to MAP.
 
 Steps for installation:
 
-1. Move the all file download to /opt
+1. Move the all files downloaded to /opt directory
+
 2. From root user
 ```
    1. $ export OSMOSIS_HOME=/opt/osmosis-0.43
